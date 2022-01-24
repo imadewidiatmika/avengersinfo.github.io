@@ -1,0 +1,93 @@
+html,body{
+    max-width: 100%;
+    overflow-x: hidden;
+    background-color: black;
+    scroll-behavior: smooth;
+}
+
+a{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 600;
+}
+
+.nav-link{
+    color: white !important;
+}
+
+p a{
+    text-decoration: none;
+}
+
+.row{
+    background-color: black;
+}
+
+.avengers{
+    background-color: black;
+    margin-top: 50px;
+}
+
+.avengers img{
+    margin-left: 50px;
+    border-radius: 50px;
+    width: 450px;
+    height: 550px;
+}
+
+.avengers p{
+    margin-top: 100px;
+}
+
+p{
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 400;
+}
+
+.avengers1,.avengers3,.avengers3,.avengers4{
+    
+    width: 100%;
+    height: 500px;
+}
+
+.home-avengers{
+    width: 100%;
+    height: 800px;
+    background: url('../img/avengers-bg.jpg');  
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.footer{
+    width: 100%;
+    background-color: rgb(22, 22, 22);
+    height: 150px;
+}
+
+.footer h1{
+    text-align: center;
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 600;
+    margin-top: 100px;
+    padding-top: 50px;
+}
+
+footer{
+    border-top: 1px solid #453AA4 !important;
+    margin-top: 100px;
+}
+
+footer img {
+    width:30px !important;
+    height:30px !important;
+    margin-left: 10px !important;
+    vertical-align: middle !important;
+    border-style: none !important;
+}
+
+footer p{
+    margin-left: 1rem !important;
+}
